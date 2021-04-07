@@ -46,10 +46,9 @@ sections:
             url: /features
             style: secondary
       - title: Simple to use
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Get started in 3 steps with our checklist-based onboarding. Install
+          without worry as we do not make changes to your theme or assets.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
