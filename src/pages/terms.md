@@ -29,7 +29,15 @@ Simple Pickup & Delivery provides the ability to add pickup and delivery schedul
 
 When you install the App, we are automatically able to access certain types of information from your Shopify account:
 
-*   *   Read customer details and customer groups*   Modify orders, transactions, and fulfillments*   Modify shipping rates, countries, and provinces*   Read locations*   Modify script tags in your store's theme template files*   Read shop locales*   Read orders, transactions, and fulfillments*   Read shipping rates, countries, and provinces*   Read script tags in your store's theme template files
+*   Read customer details and customer groups   
+*   Modify orders, transactions, and fulfillments
+*   Modify shipping rates, countries, and provinces
+*   Read locations
+*   Modify script tags in your store's theme template files
+*   Read shop locales
+*   Read orders, transactions, and fulfillments
+*   Read shipping rates, countries, and provinces
+*   Read script tags in your store's theme template files
 
 Additionally, we collect the following types of personal information from you and/or your customers once you have installed the App: Information about you and others who may access the App on behalf of your store, such as your name, address, email address, phone number, and billing information;
 
