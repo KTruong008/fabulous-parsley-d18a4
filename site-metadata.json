@@ -13,8 +13,7 @@
                 "url": "/blog",
                 "style": "link"
             }
-        ],
-        "logo": "images/App Icon.svg"
+        ]
     },
     "title": "Simple Pickup & Delivery",
     "domain": "https://fabulous-parsley-d18a4.netlify.app"
