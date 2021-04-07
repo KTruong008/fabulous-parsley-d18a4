@@ -21,13 +21,32 @@ seo:
       value: This is the privacy and terms page
 template: page
 ---
+### Simple Pickup & Delivery privacy policy
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam. In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
+Simple Pickup & Delivery provides the ability to add pickup and delivery scheduling to orders on Shopify storefronts. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
 
-Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue. Eget arcu dictum varius duis at consectetur lorem. Pellentesque pulvinar pellentesque habitant morbi tristique. Sagittis nisl rhoncus mattis rhoncus urna neque. In eu mi bibendum neque egestas congue. Et malesuada fames ac turpis egestas.
+### Personal information the app collects
 
-Consequat id porta nibh venenatis cras sed felis eget velit. Nunc vel risus commodo viverra maecenas accumsan. Congue quisque egestas diam in. Ultricies mi quis hendrerit dolor magna eget est. Duis at tellus at urna. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Et egestas quis ipsum suspendisse ultrices gravida dictum. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Mauris nunc congue nisi vitae. Venenatis tellus in metus vulputate eu scelerisque felis. Ultrices in iaculis nunc sed augue lacus. Eu lobortis elementum nibh tellus molestie nunc. Faucibus nisl tincidunt eget nullam non nisi est.
+When you install the App, we are automatically able to access certain types of information from your Shopify account:
 
-Sagittis vitae et leo duis. Et magnis dis parturient montes nascetur ridiculus mus. Dui vivamus arcu felis bibendum ut. Et netus et malesuada fames ac. Mollis aliquam ut porttitor leo a diam sollicitudin. Elit at imperdiet dui accumsan sit. Justo eget magna fermentum iaculis. Turpis tincidunt id aliquet risus feugiat. Dictumst vestibulum rhoncus est pellentesque elit. Dolor magna eget est lorem ipsum dolor. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Metus vulputate eu scelerisque felis imperdiet proin. Congue nisi vitae suscipit tellus mauris. Sed blandit libero volutpat sed cras ornare arcu dui vivamus. Scelerisque purus semper eget duis at tellus at urna condimentum. Elit ut aliquam purus sit amet luctus venenatis lectus magna. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam.
+*   *   Read customer details and customer groups*   Modify orders, transactions, and fulfillments*   Modify shipping rates, countries, and provinces*   Read locations*   Modify script tags in your store's theme template files*   Read shop locales*   Read orders, transactions, and fulfillments*   Read shipping rates, countries, and provinces*   Read script tags in your store's theme template files
 
-Neque sodales ut etiam sit amet. Magna ac placerat vestibulum lectus mauris ultrices. Turpis massa tincidunt dui ut ornare lectus sit amet est. Sed vulputate mi sit amet mauris commodo quis. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Eget nullam non nisi est sit amet facilisis. Sem viverra aliquet eget sit amet tellus cras. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Gravida arcu ac tortor dignissim convallis aenean. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Egestas dui id ornare arcu odio ut sem. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Nibh sit amet commodo nulla. Feugiat scelerisque varius morbi enim nunc. Blandit turpis cursus in hac habitasse platea dictumst quisque sagittis. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Eu mi bibendum neque egestas. At lectus urna duis convallis. Gravida quis blandit turpis cursus.
+Additionally, we collect the following types of personal information from you and/or your customers once you have installed the App: Information about you and others who may access the App on behalf of your store, such as your name, address, email address, phone number, and billing information;
+
+### How do we use your personal information?
+
+We use the personal information we collect from you and your customers in order to provide the Service and to operate the App. Additionally, we use this personal information to: Communicate with you; Optimize or improve the App; and Provide you with information or advertising relating to our products or services.
+
+### Sharing your personal information
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+Your Rights If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+Data Retention When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+Changes We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+Contact Us For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <support@keylayapps.com> or by mail using the details provided below:
