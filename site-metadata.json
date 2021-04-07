@@ -16,5 +16,14 @@
         ]
     },
     "title": "Simple Pickup & Delivery",
-    "domain": "https://fabulous-parsley-d18a4.netlify.app"
+    "domain": "https://fabulous-parsley-d18a4.netlify.app",
+    "footer": {
+        "has_nav": true,
+        "nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
