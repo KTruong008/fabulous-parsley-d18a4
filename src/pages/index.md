@@ -44,7 +44,7 @@ sections:
           Get started in 3 steps with our checklist-based onboarding. Install
           without worry as we make no changes to your theme or assets.
         align: left
-        image: images/simple-to-use.png
+        image: images/violet-lettuce.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
