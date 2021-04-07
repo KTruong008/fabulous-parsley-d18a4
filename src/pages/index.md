@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Curbside pickups and local deliveries
-    subtitle: Add scheduled pickup and delivery orders to your Shopify store.
+    subtitle: Add scheduled pickup and/or delivery orders to your Shopify store.
     actions:
       - label: Learn More
         url: /features
