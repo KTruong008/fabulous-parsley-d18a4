@@ -23,10 +23,9 @@ sections:
     title: Features
     features:
       - title: Scheduled pickup/delivery
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Add scheduled dates and times for pickup and/or local delivery orders,
+          and customize options to your liking.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
