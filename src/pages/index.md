@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Add scheduled pickup and delivery orders to your store
+    title: Curbside pickup and Local delivery
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
