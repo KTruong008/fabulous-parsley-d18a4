@@ -30,10 +30,7 @@ sections:
         image: images/scheduled-pickups-and-deliveries.png
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Unlimited locations
         content: |
           Add pickup and delivery scheduling to all of your stores!
