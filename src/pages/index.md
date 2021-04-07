@@ -27,7 +27,7 @@ sections:
           Add scheduled dates and times for pickup and/or local delivery orders,
           and customize options to your liking.
         align: left
-        image: images/feature.svg
+        image: images/scheduled-pickups-and-deliveries.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
