@@ -38,7 +38,7 @@ sections:
         content: |
           Add pickup and delivery scheduling to all of your stores!
         align: left
-        image: images/feature.svg
+        image: images/unlimited-locations.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
