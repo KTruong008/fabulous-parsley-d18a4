@@ -9,7 +9,7 @@ sections:
         url: /features
         style: primary
     align: left
-    image: images/1.png
+    image: images/App icon - blue.svg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
