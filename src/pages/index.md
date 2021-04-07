@@ -49,7 +49,7 @@ sections:
         image_position: right
         actions: []
   - type: cta_section
-    title: This Is A CTA
+    title: Try it out for free today!
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
